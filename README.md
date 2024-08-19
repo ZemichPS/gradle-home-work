@@ -1,1 +1,1 @@
-## Tagger plugin (first homework)
+## Tagger gradle plugin (first homework)
